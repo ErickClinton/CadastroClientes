@@ -1,0 +1,11 @@
+
+Colunas da tabela cliente.
++-----------+-----------------+------+-----+---------+----------------+
+| Field     | Type            | Null | Key | Default | Extra          |
++-----------+-----------------+------+-----+---------+----------------+
+| id        | int(4) unsigned | NO   | PRI | NULL    | auto_increment |
+| nome      | varchar(255)    | NO   |     | NULL    |                |
+| sobrenome | varchar(255)    | YES  |     | NULL    |                |
+| email     | varchar(255)    | YES  |     | NULL    |                |
+| idade     | int(3)          | YES  |     | NULL    |                |
++-----------+-----------------+------+-----+---------+----------------+
