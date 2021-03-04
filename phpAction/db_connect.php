@@ -9,9 +9,9 @@
 
 
     $host= "localhost";
-    $usuario= "erick";
-    $senha= "Erick";
-    $bd= "Crud";
+    $usuario= "";
+    $senha= "";
+    $bd= "";
     $porta="3306"; //3306 é a porta padrão do mysql 
 
     
